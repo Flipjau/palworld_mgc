@@ -1,5 +1,5 @@
 [Unit]
-Description=Palworld Dedicated Server by A1RM4X 0.4
+Description=Palworld Server by Flip
 Wants=network-online.target
 After=network-online.target
 
